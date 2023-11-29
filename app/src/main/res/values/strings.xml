@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="tvNewContacto">NUEVO CONTACTO</string>
+    <string name="tvEditContacto">EDITAR CONTACTO</string>
+    <string name="tvContactos">MIS CONTACTOS</string>
+    <string name="etNombre">Nombre:</string>
+    <string name="etTelefono">Telefono:</string>
+    <string name="etCorreo">Correo Electronico:</string>
+    <string name="btnGuardar">GUARDAR</string>
+
+
+    <string name="menu_nuevo">Nuevo contacto</string>
+
+</resources>
